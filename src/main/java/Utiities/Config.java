@@ -9,7 +9,7 @@ public class Config {
 
     static {
         try {
-            FileInputStream fis = new FileInputStream("src/main/resources/config/api-config.properties");
+            FileInputStream fis = new FileInputStream("src/main/java/Resources/api-config.properties");
             prop.load(fis);
         } catch (IOException e) {
             e.printStackTrace();
