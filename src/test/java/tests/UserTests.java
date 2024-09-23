@@ -34,7 +34,7 @@ public class UserTests extends BaseTest {
 
         String payload = "{\"name\": \"John Doe\", \"job\": \"Software Developer\"}";
         Response response = userService.createUser(payload);
-        
+        //sindhura
         test.log(Status.INFO, "Creating user with payload: " + payload);
         
         Assert.assertEquals(response.getStatusCode(), 201);
