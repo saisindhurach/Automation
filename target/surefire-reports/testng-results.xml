@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-21T20:58:26 IST" name="SmokeTestSuite" finished-at="2024-09-21T20:58:27 IST" duration-ms="739">
+  <suite started-at="2024-09-23T13:07:14 IST" name="SmokeTestSuite" finished-at="2024-09-23T13:07:15 IST" duration-ms="912">
     <groups>
     </groups>
-    <test started-at="2024-09-21T20:58:26 IST" name="SmokeTests" finished-at="2024-09-21T20:58:27 IST" duration-ms="739">
+    <test started-at="2024-09-23T13:07:14 IST" name="SmokeTests" finished-at="2024-09-23T13:07:15 IST" duration-ms="912">
       <class name="tests.UserTests">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.UserTests@4387b79e]" started-at="2024-09-21T20:58:22 IST" name="setUp" finished-at="2024-09-21T20:58:26 IST" duration-ms="3825" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.UserTests@4387b79e]" started-at="2024-09-23T13:07:09 IST" name="setUp" finished-at="2024-09-23T13:07:14 IST" duration-ms="5460" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testCreateUser()[pri:0, instance:tests.UserTests@4387b79e]" started-at="2024-09-21T20:58:26 IST" name="testCreateUser" finished-at="2024-09-21T20:58:26 IST" duration-ms="541" status="PASS">
+        <test-method signature="testCreateUser()[pri:0, instance:tests.UserTests@4387b79e]" started-at="2024-09-23T13:07:14 IST" name="testCreateUser" finished-at="2024-09-23T13:07:15 IST" duration-ms="612" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateUser -->
-        <test-method signature="testGetUser()[pri:0, instance:tests.UserTests@4387b79e]" started-at="2024-09-21T20:58:26 IST" name="testGetUser" finished-at="2024-09-21T20:58:27 IST" duration-ms="151" status="PASS">
+        <test-method signature="testGetUser()[pri:0, instance:tests.UserTests@4387b79e]" started-at="2024-09-23T13:07:15 IST" name="testGetUser" finished-at="2024-09-23T13:07:15 IST" duration-ms="246" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetUser -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.UserTests@4387b79e]" started-at="2024-09-21T20:58:27 IST" name="tearDown" finished-at="2024-09-21T20:58:27 IST" duration-ms="418" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.UserTests@4387b79e]" started-at="2024-09-23T13:07:15 IST" name="tearDown" finished-at="2024-09-23T13:07:16 IST" duration-ms="667" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
